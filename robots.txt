@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://f9b95251.d-blog-et7.pages.dev/sitemap.xml
